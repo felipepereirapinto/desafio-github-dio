@@ -1,3 +1,5 @@
+<img width="200" alt="GitHub logo from DIO" src="/assets/github-dio-logo.png">
+
 # Desafio GitHub da DIO
 Desafio da Digital Innovation One (DIO) para criar o primeiro repositório no GitHub
 
